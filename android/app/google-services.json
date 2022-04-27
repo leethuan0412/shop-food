@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305527609979",
+    "project_id": "thuanshopfood",
+    "storage_bucket": "thuanshopfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305527609979:android:6c725e40ce6ce6a5b620de",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305527609979-n8eb78g0fce93e2t1tig2v0r1eucgm7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHH2Eu1VynDIHVk3Q5rApUrsHmegMkuYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305527609979-n8eb78g0fce93e2t1tig2v0r1eucgm7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
